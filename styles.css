@@ -74,6 +74,12 @@ nav {
   text-decoration: none;
 }
 
+main {
+  padding: 300px;
+  font-size: 50px;
+  text-align: center;
+}
+
 .featured_header {
   padding: 300px;
   background-image: url('aboutus.jpg');
