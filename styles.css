@@ -1,87 +1,125 @@
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
-
-* {
-  box-sizing: border-box;
-}
-
-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
-
-header h1 {
-  font-size: 50px;
-  margin-bottom: 5px;
-  margin-top: 0;
-}
-
-header p {
-  font-size: 30px;
-  margin: 0;
-}
-
 body {
-  background-color: #fcf0cc;
-  font-family: 'Lato', sans-serif;
   margin: 0;
+  padding: 0;
+  font-family: Arial;
+  line-height: 1.5em;
 }
 
-nav {
-  background-color: #A64253;
-  color: #fff;
-  display: flex;
-  justify-content: flex-end;
-  padding: 20px;
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-nav a {
-  color: #fff;
-  margin-left: 20px;
-  text-decoration: none;
+#site_wrap {
+  height: 100vh;
+  display: grid;
 }
 
 header {
-  background-image: url('#');
-  height: 100vh;
+  padding: 0px;
+  display: inline-block;
+  font-size: 20px;
+  margin: 20px;
+  vertical-align: bottom;
+  line-height: normal;
 }
 
-section {
-  padding: 30px;
-  text-align: center;
+.npori {
+  position: absolute;
+  left: 10px;
+  top: 15px;
+  margin: 0px 15px 15px 0px;
 }
 
-section h2 {
-  margin-bottom: 0;
-}
-
-.bg-pinkish {
-  background-color: #A64253;
-  color: #fff;
-}
+.social {
+  background-color:#fff;
+ }
 
 .social-ul {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
 .social-ul a {
+  color: #000;
+  font-size: 40px;
+  margin: 10px;
+}
+
+nav {
+  background-color:#2E6CA4;
+  font-size: 40px;
+}
+
+.nav ul {
+  margin: 0;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 18px;
+  margin: 20px;
+  vertical-align: bottom;
+  line-height: normal;
+}
+
+.nav a {
+  display: inline-block;
+  padding: .5em;
+  color: white;
+  text-decoration: none;
+}
+
+.featured_header {
+  padding: 300px;
+  background-image: url('aboutus.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.featured_header h1 {
   color: #fff;
-  font-size: 30px;
-  margin: 0 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  text-align: center;
+}
+
+.introduction {
+  margin: 0;
+  padding: 350px;
+  text-align: left;
+}
+
+.project_members {
+  color: #fff;
+  background-color: #DFD3C3;
+  margin: 0;
+  padding: 500px;
+  text-align: center;
 }
 
 footer {
-  background-color: #A64253;
+  background-color: #111111;
   color: #fff;
-  padding: 10px;
+  padding: 350px;
   text-align: center;
+}
+
+footer p {
+  vertical-align: bottom;
 }
 
 footer .fa-heart {
   color: red;
+}
+
+.footer_logo {
+  position: absolute;
+  left: 10px;
+  margin: 0px 15px 15px 0px;
 }
