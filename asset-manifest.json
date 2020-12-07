@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/np-school-of-engineering/static/css/main.70eefcaf.chunk.css",
+    "main.css": "/np-school-of-engineering/static/css/main.5e8a94f9.chunk.css",
     "main.js": "/np-school-of-engineering/static/js/main.0ba25875.chunk.js",
     "main.js.map": "/np-school-of-engineering/static/js/main.0ba25875.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
@@ -10,7 +10,7 @@
     "static/js/2.ebd15fae.chunk.js.map": "/np-school-of-engineering/static/js/2.ebd15fae.chunk.js.map",
     "index.html": "/np-school-of-engineering/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.70eefcaf.chunk.css.map": "/np-school-of-engineering/static/css/main.70eefcaf.chunk.css.map",
+    "static/css/main.5e8a94f9.chunk.css.map": "/np-school-of-engineering/static/css/main.5e8a94f9.chunk.css.map",
     "static/js/2.ebd15fae.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.ebd15fae.chunk.js.LICENSE.txt",
     "static/media/App.css": "/np-school-of-engineering/static/media/youth-expedition-project.448ebd75.svg",
     "static/media/np_logo.10befbd0.svg": "/np-school-of-engineering/static/media/np_logo.10befbd0.svg",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.1db92214.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.ebd15fae.chunk.js",
-    "static/css/main.70eefcaf.chunk.css",
+    "static/css/main.5e8a94f9.chunk.css",
     "static/js/main.0ba25875.chunk.js"
   ]
 }
