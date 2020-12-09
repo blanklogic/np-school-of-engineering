@@ -1,0 +1,14 @@
+/* TEAM */
+Your title: 
+Site: 
+Twitter: 
+Location: Singapore, Singapore
+
+/* THANKS */
+Name:
+
+/* SITE */
+Last update: 2020/12/09
+Standards: HTML5, CSS3, ReactJS, React Boostrap
+Components: 
+Software: Visual Studio Code, 
