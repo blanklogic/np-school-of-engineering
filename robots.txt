@@ -1,4 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
+
 Sitemap: https://blanklogic.github.io/np-school-of-engineering/sitemap.xml
