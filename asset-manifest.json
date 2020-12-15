@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/np-school-of-engineering/static/css/main.5e49d4bf.chunk.css",
-    "main.js": "/np-school-of-engineering/static/js/main.b5bb511e.chunk.js",
-    "main.js.map": "/np-school-of-engineering/static/js/main.b5bb511e.chunk.js.map",
+    "main.css": "/np-school-of-engineering/static/css/main.54fde85e.chunk.css",
+    "main.js": "/np-school-of-engineering/static/js/main.c4f2507a.chunk.js",
+    "main.js.map": "/np-school-of-engineering/static/js/main.c4f2507a.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
     "runtime-main.js.map": "/np-school-of-engineering/static/js/runtime-main.1db92214.js.map",
     "static/css/2.1a02f21c.chunk.css": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.c0106c3a.chunk.js": "/np-school-of-engineering/static/js/2.c0106c3a.chunk.js",
-    "static/js/2.c0106c3a.chunk.js.map": "/np-school-of-engineering/static/js/2.c0106c3a.chunk.js.map",
+    "static/js/2.1a3c5926.chunk.js": "/np-school-of-engineering/static/js/2.1a3c5926.chunk.js",
+    "static/js/2.1a3c5926.chunk.js.map": "/np-school-of-engineering/static/js/2.1a3c5926.chunk.js.map",
     "index.html": "/np-school-of-engineering/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.5e49d4bf.chunk.css.map": "/np-school-of-engineering/static/css/main.5e49d4bf.chunk.css.map",
-    "static/js/2.c0106c3a.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.c0106c3a.chunk.js.LICENSE.txt",
+    "static/css/main.54fde85e.chunk.css.map": "/np-school-of-engineering/static/css/main.54fde85e.chunk.css.map",
+    "static/js/2.1a3c5926.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.1a3c5926.chunk.js.LICENSE.txt",
     "static/media/App.css": "/np-school-of-engineering/static/media/youth-expedition-project.448ebd75.svg",
     "static/media/ImageHover.css": "/np-school-of-engineering/static/media/background.a4c879f3.jpg",
     "static/media/coursesLogoWhite.3a3873bb.png": "/np-school-of-engineering/static/media/coursesLogoWhite.3a3873bb.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.1db92214.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.c0106c3a.chunk.js",
-    "static/css/main.5e49d4bf.chunk.css",
-    "static/js/main.b5bb511e.chunk.js"
+    "static/js/2.1a3c5926.chunk.js",
+    "static/css/main.54fde85e.chunk.css",
+    "static/js/main.c4f2507a.chunk.js"
   ]
 }
