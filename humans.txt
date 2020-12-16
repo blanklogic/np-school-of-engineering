@@ -9,6 +9,6 @@ Name:
 
 /* SITE */
 Last update: 2020/12/09
-Standards: HTML5, CSS3, ReactJS, React Boostrap
-Components: 
-Software: Visual Studio Code, 
+Standards: HTML5, CSS3, ReactJS
+Components: React Boostrap, React Router, React Helmet, React Youtube, Node Sass
+Software: Visual Studio Code, GitHub
