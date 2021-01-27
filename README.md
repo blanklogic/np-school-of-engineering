@@ -29,6 +29,7 @@ Install the necessary dependencies
 npm install react-router-dom
 npm install react-youtube
 npm install react-bootstrap bootstrap
+npm install --dev react-snap
 npm install --save react-helmet
 npm install --save react-icons
 npm install node-sass
@@ -60,6 +61,11 @@ Files can be deployed efficiently and fast once settings have been done in packa
 "name": "npsoeweb"
 ```
 
+Thereafter, the following command can be utilized in the terminal with nodejs
+```
+npm run deploy
+```
+
 ## Built With
 
 * [NodeJS](https://nodejs.org/en/) - JavaScript runtime environment
@@ -67,6 +73,7 @@ Files can be deployed efficiently and fast once settings have been done in packa
 * [React BootStrap](https://react-bootstrap.github.io/) - Bootstrap rebuilt for react, used as part of our web framework
 * [React Router Dom](https://reactrouter.com/) - Dependency used for routing webpages among our single page application
 * [React Helmet](https://github.com/nfl/react-helmet#readme) - Dependency used for managing different titles, descriptions, and meta tags of individual pages
+* [React Snap](https://github.com/stereobooster/react-snap#readme) - Prerendering webpages to enable SEO for Single Page Applications
 * [node-sass](https://github.com/sass/node-sass) -Binding for NodeJS to LibSass and compiling of scss
 * [Babel](https://babeljs.io/) - JavaScript compiler
 * [React Youtube](https://github.com/tjallingt/react-youtube) - Dependency used for embedding Youtube videos seemlessly on react single page applications
