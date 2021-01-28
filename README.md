@@ -98,5 +98,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Ngee Ann Polytechnic
-* Ngee Ann Polytechnic School of Engineering
+* **Ngee Ann Polytechnic** - [Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
+* **Ngee Ann Polytechnic School of Engineering** - [NPSoE](https://www.np.edu.sg/soe/Pages/default.aspx)
