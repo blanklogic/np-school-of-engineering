@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/np-school-of-engineering/static/css/main.c178cfa7.chunk.css",
-    "main.js": "/np-school-of-engineering/static/js/main.5f6f525e.chunk.js",
-    "main.js.map": "/np-school-of-engineering/static/js/main.5f6f525e.chunk.js.map",
+    "main.css": "/np-school-of-engineering/static/css/main.eca3d048.chunk.css",
+    "main.js": "/np-school-of-engineering/static/js/main.d817ec36.chunk.js",
+    "main.js.map": "/np-school-of-engineering/static/js/main.d817ec36.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
     "runtime-main.js.map": "/np-school-of-engineering/static/js/runtime-main.1db92214.js.map",
     "static/css/2.1a02f21c.chunk.css": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.7ed85ea1.chunk.js": "/np-school-of-engineering/static/js/2.7ed85ea1.chunk.js",
-    "static/js/2.7ed85ea1.chunk.js.map": "/np-school-of-engineering/static/js/2.7ed85ea1.chunk.js.map",
+    "static/js/2.e1d73511.chunk.js": "/np-school-of-engineering/static/js/2.e1d73511.chunk.js",
+    "static/js/2.e1d73511.chunk.js.map": "/np-school-of-engineering/static/js/2.e1d73511.chunk.js.map",
     "index.html": "/np-school-of-engineering/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.c178cfa7.chunk.css.map": "/np-school-of-engineering/static/css/main.c178cfa7.chunk.css.map",
-    "static/js/2.7ed85ea1.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.7ed85ea1.chunk.js.LICENSE.txt",
+    "static/css/main.eca3d048.chunk.css.map": "/np-school-of-engineering/static/css/main.eca3d048.chunk.css.map",
+    "static/js/2.e1d73511.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.e1d73511.chunk.js.LICENSE.txt",
     "static/media/App.css": "/np-school-of-engineering/static/media/raymond-lam-sk.d163728f.jpg",
     "static/media/about-us.f32785ec.jpg": "/np-school-of-engineering/static/media/about-us.f32785ec.jpg",
     "static/media/ImageHover.css": "/np-school-of-engineering/static/media/background.a4c879f3.jpg",
@@ -28,6 +28,11 @@
     "static/media/i1.c8fc15cf.webp": "/np-school-of-engineering/static/media/i1.c8fc15cf.webp",
     "static/media/i3.db903af7.webp": "/np-school-of-engineering/static/media/i3.db903af7.webp",
     "static/media/i3.fb2a498e.jpg": "/np-school-of-engineering/static/media/i3.fb2a498e.jpg",
+    "static/media/i5.4af787e6.JPG": "/np-school-of-engineering/static/media/i5.4af787e6.JPG",
+    "static/media/i6.935aafd9.JPG": "/np-school-of-engineering/static/media/i6.935aafd9.JPG",
+    "static/media/i7.f6234193.JPG": "/np-school-of-engineering/static/media/i7.f6234193.JPG",
+    "static/media/i8.28de7e77.JPG": "/np-school-of-engineering/static/media/i8.28de7e77.JPG",
+    "static/media/i9.c02abd7e.JPG": "/np-school-of-engineering/static/media/i9.c02abd7e.JPG",
     "static/media/immersion-programmes.21ccfd8a.webp": "/np-school-of-engineering/static/media/immersion-programmes.21ccfd8a.webp",
     "static/media/immersion-programmes.663096ad.jpg": "/np-school-of-engineering/static/media/immersion-programmes.663096ad.jpg",
     "static/media/lucas-leong.0956e074.jpg": "/np-school-of-engineering/static/media/lucas-leong.0956e074.jpg",
@@ -62,8 +67,8 @@
   "entrypoints": [
     "static/js/runtime-main.1db92214.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.7ed85ea1.chunk.js",
-    "static/css/main.c178cfa7.chunk.css",
-    "static/js/main.5f6f525e.chunk.js"
+    "static/js/2.e1d73511.chunk.js",
+    "static/css/main.eca3d048.chunk.css",
+    "static/js/main.d817ec36.chunk.js"
   ]
 }
