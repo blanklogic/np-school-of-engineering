@@ -8,12 +8,11 @@ Future students taking up the rich media interactive with Search Engine Optimiza
 
 ### Prerequisites
 
+```
 Visual Studio Code
 NodeJS
-React Router Dom
-React Youtube
-React BootStrap
-React Helmet
+Font Awesome
+```
 
 ### Installing
 
@@ -87,8 +86,8 @@ Please read [CONTRIBUTING.md](https://github.com/blanklogic/np-school-of-enginee
 
 ## Authors
 
-* **Jaymeson Koh** - *Web Layout(Navbar, Footer), About Us, Student Life* - [blanklogic](https://github.com/blanklogic)
-* **Nakagawa Miho Sherry** - *Web Layout(Navbar), Homepage, World Skills* - [nkgwmiho](https://github.com/nkgwmiho)
+* **Jaymeson Koh** - *Web Layout(Navbar, Footer), About Us, Student Life, SEO, Performance* - [blanklogic](https://github.com/blanklogic)
+* **Nakagawa Miho Sherry** - *Web Layout(Navbar), Homepage, Projects, News* - [nkgwmiho](https://github.com/nkgwmiho)
 * **Kugan S/O Elamaran** - *Courses, Drone* - [kuganevk](https://github.com/kuganevk)
 
 See also the list of [contributors](https://github.com/blanklogic/np-school-of-engineering/graphs/contributors) who participated in this project.
