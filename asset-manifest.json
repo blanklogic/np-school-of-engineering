@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/np-school-of-engineering/static/css/main.ee6a2093.chunk.css",
-    "main.js": "/np-school-of-engineering/static/js/main.0f1843a7.chunk.js",
-    "main.js.map": "/np-school-of-engineering/static/js/main.0f1843a7.chunk.js.map",
+    "main.css": "/np-school-of-engineering/static/css/main.255e1b61.chunk.css",
+    "main.js": "/np-school-of-engineering/static/js/main.65e70179.chunk.js",
+    "main.js.map": "/np-school-of-engineering/static/js/main.65e70179.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
     "runtime-main.js.map": "/np-school-of-engineering/static/js/runtime-main.1db92214.js.map",
     "static/css/2.1a02f21c.chunk.css": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.e1d73511.chunk.js": "/np-school-of-engineering/static/js/2.e1d73511.chunk.js",
-    "static/js/2.e1d73511.chunk.js.map": "/np-school-of-engineering/static/js/2.e1d73511.chunk.js.map",
+    "static/js/2.6a4bf001.chunk.js": "/np-school-of-engineering/static/js/2.6a4bf001.chunk.js",
+    "static/js/2.6a4bf001.chunk.js.map": "/np-school-of-engineering/static/js/2.6a4bf001.chunk.js.map",
     "index.html": "/np-school-of-engineering/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.ee6a2093.chunk.css.map": "/np-school-of-engineering/static/css/main.ee6a2093.chunk.css.map",
-    "static/js/2.e1d73511.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.e1d73511.chunk.js.LICENSE.txt",
+    "static/css/main.255e1b61.chunk.css.map": "/np-school-of-engineering/static/css/main.255e1b61.chunk.css.map",
+    "static/js/2.6a4bf001.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.6a4bf001.chunk.js.LICENSE.txt",
     "static/media/App.css": "/np-school-of-engineering/static/media/raymond-lam-sk.d163728f.jpg",
     "static/media/about-us.f32785ec.jpg": "/np-school-of-engineering/static/media/about-us.f32785ec.jpg",
     "static/media/ImageHover.css": "/np-school-of-engineering/static/media/background.a4c879f3.jpg",
@@ -68,8 +68,8 @@
   "entrypoints": [
     "static/js/runtime-main.1db92214.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.e1d73511.chunk.js",
-    "static/css/main.ee6a2093.chunk.css",
-    "static/js/main.0f1843a7.chunk.js"
+    "static/js/2.6a4bf001.chunk.js",
+    "static/css/main.255e1b61.chunk.css",
+    "static/js/main.65e70179.chunk.js"
   ]
 }
