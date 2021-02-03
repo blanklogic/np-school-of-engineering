@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/np-school-of-engineering/static/css/main.3b3614ab.chunk.css",
-    "main.js": "/np-school-of-engineering/static/js/main.65e70179.chunk.js",
-    "main.js.map": "/np-school-of-engineering/static/js/main.65e70179.chunk.js.map",
+    "main.js": "/np-school-of-engineering/static/js/main.27897867.chunk.js",
+    "main.js.map": "/np-school-of-engineering/static/js/main.27897867.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
     "runtime-main.js.map": "/np-school-of-engineering/static/js/runtime-main.1db92214.js.map",
     "static/css/2.1a02f21c.chunk.css": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css",
@@ -13,7 +13,6 @@
     "static/css/main.3b3614ab.chunk.css.map": "/np-school-of-engineering/static/css/main.3b3614ab.chunk.css.map",
     "static/js/2.6a4bf001.chunk.js.LICENSE.txt": "/np-school-of-engineering/static/js/2.6a4bf001.chunk.js.LICENSE.txt",
     "static/media/App.css": "/np-school-of-engineering/static/media/raymond-lam-sk.d163728f.jpg",
-    "static/media/about-us.f32785ec.jpg": "/np-school-of-engineering/static/media/about-us.f32785ec.jpg",
     "static/media/ImageHover.css": "/np-school-of-engineering/static/media/background.a4c879f3.jpg",
     "static/media/coursesLogoWhite.1059dc19.png": "/np-school-of-engineering/static/media/coursesLogoWhite.1059dc19.png",
     "static/media/coursesLogoWhite.ef13ba81.webp": "/np-school-of-engineering/static/media/coursesLogoWhite.ef13ba81.webp",
@@ -70,6 +69,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.6a4bf001.chunk.js",
     "static/css/main.3b3614ab.chunk.css",
-    "static/js/main.65e70179.chunk.js"
+    "static/js/main.27897867.chunk.js"
   ]
 }
