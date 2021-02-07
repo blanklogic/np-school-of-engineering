@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/np-school-of-engineering/static/css/main.3b3614ab.chunk.css",
-    "main.js": "/np-school-of-engineering/static/js/main.30576a0f.chunk.js",
-    "main.js.map": "/np-school-of-engineering/static/js/main.30576a0f.chunk.js.map",
+    "main.js": "/np-school-of-engineering/static/js/main.210469fb.chunk.js",
+    "main.js.map": "/np-school-of-engineering/static/js/main.210469fb.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
     "runtime-main.js.map": "/np-school-of-engineering/static/js/runtime-main.1db92214.js.map",
     "static/css/2.1a02f21c.chunk.css": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css",
@@ -18,7 +18,6 @@
     "static/media/coursesLogoWhite.ef13ba81.webp": "/np-school-of-engineering/static/media/coursesLogoWhite.ef13ba81.webp",
     "static/media/droneCetImageHover.30c4b01b.webp": "/np-school-of-engineering/static/media/droneCetImageHover.30c4b01b.webp",
     "static/media/droneCetImageHover.8c037c59.jpg": "/np-school-of-engineering/static/media/droneCetImageHover.8c037c59.jpg",
-    "static/media/engineerIconBlack.cf1b78af.png": "/np-school-of-engineering/static/media/engineerIconBlack.cf1b78af.png",
     "static/media/engineerIconWhite2.4b193675.webp": "/np-school-of-engineering/static/media/engineerIconWhite2.4b193675.webp",
     "static/media/engineerIconWhite2.bde87da0.png": "/np-school-of-engineering/static/media/engineerIconWhite2.bde87da0.png",
     "static/media/fypHandExoskeleton.4133f91c.jpg": "/np-school-of-engineering/static/media/fypHandExoskeleton.4133f91c.jpg",
@@ -55,10 +54,8 @@
     "static/media/study-trips.fc225c58.webp": "/np-school-of-engineering/static/media/study-trips.fc225c58.webp",
     "static/media/top-notch-facilities.242b0087.jpg": "/np-school-of-engineering/static/media/top-notch-facilities.242b0087.jpg",
     "static/media/top-notch-facilities.979d8671.webp": "/np-school-of-engineering/static/media/top-notch-facilities.979d8671.webp",
-    "static/media/worldSkills2018BkkImageHover.34410c2f.JPG": "/np-school-of-engineering/static/media/worldSkills2018BkkImageHover.34410c2f.JPG",
     "static/media/worldSkills2018ImageHover.1667dc68.jpg": "/np-school-of-engineering/static/media/worldSkills2018ImageHover.1667dc68.jpg",
     "static/media/worldSkills2018ImageHover.26a23ede.webp": "/np-school-of-engineering/static/media/worldSkills2018ImageHover.26a23ede.webp",
-    "static/media/worldSkills2019TianJinImageHover.19750720.jpg": "/np-school-of-engineering/static/media/worldSkills2019TianJinImageHover.19750720.jpg",
     "static/media/worldSkillsImageHover.cd3820a8.jpg": "/np-school-of-engineering/static/media/worldSkillsImageHover.cd3820a8.jpg",
     "static/media/worldSkillsImageHover.f493c470.webp": "/np-school-of-engineering/static/media/worldSkillsImageHover.f493c470.webp",
     "static/media/youth-expedition-project.0c3b943e.webp": "/np-school-of-engineering/static/media/youth-expedition-project.0c3b943e.webp",
@@ -69,6 +66,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.5cbbe51a.chunk.js",
     "static/css/main.3b3614ab.chunk.css",
-    "static/js/main.30576a0f.chunk.js"
+    "static/js/main.210469fb.chunk.js"
   ]
 }
