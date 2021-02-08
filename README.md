@@ -88,7 +88,7 @@ Please read [CONTRIBUTING.md](https://github.com/blanklogic/np-school-of-enginee
 
 * **Jaymeson Koh** - *Web Layout(Navbar, Footer), About Us, Student Life, SEO, Overall Quality of Life* - [blanklogic](https://github.com/blanklogic)
 * **Nakagawa Miho Sherry** - *Web Layout(Navbar), Homepage, Projects, News* - [nkgwmiho](https://github.com/nkgwmiho)
-* **Kugan S/O Elamaran** - *Courses, Drone* - [kuganevk](https://github.com/kuganevk)
+* **Kugan S/O Elamaran** - *Courses, Technology(Drone, Drone Piloting, Create Website from Scratch)* - [kuganevk](https://github.com/kuganevk)
 
 See also the list of [contributors](https://github.com/blanklogic/np-school-of-engineering/graphs/contributors) who participated in this project.
 
