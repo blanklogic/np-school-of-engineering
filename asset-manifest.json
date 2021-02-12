@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/np-school-of-engineering/static/css/main.79e85f66.chunk.css",
-    "main.js": "/np-school-of-engineering/static/js/main.5a3bfa82.chunk.js",
-    "main.js.map": "/np-school-of-engineering/static/js/main.5a3bfa82.chunk.js.map",
+    "main.js": "/np-school-of-engineering/static/js/main.ea9802bf.chunk.js",
+    "main.js.map": "/np-school-of-engineering/static/js/main.ea9802bf.chunk.js.map",
     "runtime-main.js": "/np-school-of-engineering/static/js/runtime-main.1db92214.js",
     "runtime-main.js.map": "/np-school-of-engineering/static/js/runtime-main.1db92214.js.map",
     "static/css/2.1a02f21c.chunk.css": "/np-school-of-engineering/static/css/2.1a02f21c.chunk.css",
@@ -69,6 +69,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.4414fcd8.chunk.js",
     "static/css/main.79e85f66.chunk.css",
-    "static/js/main.5a3bfa82.chunk.js"
+    "static/js/main.ea9802bf.chunk.js"
   ]
 }
