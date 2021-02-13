@@ -11,7 +11,6 @@ Future students taking up the rich media interactive with Search Engine Optimiza
 ```
 Visual Studio Code
 NodeJS
-Font Awesome
 ```
 
 ### Installing
@@ -21,6 +20,8 @@ After installing Visual Studio Code and NodeJS.
 Get Started by creating your very own react project
 ```
 npx create-react-app project-name
+cd project-name
+npm start
 ```
 
 Install the necessary dependencies
