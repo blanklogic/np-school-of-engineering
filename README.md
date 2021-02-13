@@ -48,9 +48,6 @@ npm start
 ```
 
 This allows us to be able to edit our website live while making changes on our code, viewing the final deployment as from the user's perspectives.
-```
-To insert picture or short video
-```
 
 ## Deployment
 
@@ -86,7 +83,7 @@ Please read [CONTRIBUTING.md](https://github.com/blanklogic/np-school-of-enginee
 
 ## Authors
 
-* **Jaymeson Koh** - *Web Layout(Navbar, Footer), About Us, Student Life, SEO, Overall Quality of Life* - [blanklogic](https://github.com/blanklogic)
+* **Jaymeson Koh** - *Web Layout(Navbar, Footer), About Us, Courses, Student Life, SEO, Overall Quality of Life, Documentation* - [blanklogic](https://github.com/blanklogic)
 * **Nakagawa Miho Sherry** - *Web Layout(Navbar), Homepage, Projects, News* - [nkgwmiho](https://github.com/nkgwmiho)
 * **Kugan S/O Elamaran** - *Courses, Technology(Drone, Drone Piloting, Create Website from Scratch)* - [kuganevk](https://github.com/kuganevk)
 
