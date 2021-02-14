@@ -45,4 +45,9 @@
         <changefreq>always</changefreq>
         <priority>0.8</priority>
    </url>
+   <url>
+        <loc>https://blanklogic.github.io/np-school-of-engineering/experiences/</loc>
+        <changefreq>always</changefreq>
+        <priority>0.8</priority>
+   </url>
 </urlset> 
